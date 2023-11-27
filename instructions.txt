@@ -1,0 +1,8 @@
+run anyof the 2 codes names as
+- md5_lockerapp.py
+- test_runner_md5.py 
+
+using the following command 
+
+``` streamlit run md5_lockerapp.py```
+``` streamlit run test_runner_md5.py```
